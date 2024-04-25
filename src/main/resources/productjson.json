@@ -1,0 +1,266 @@
+[{
+  "_id": "fda1f751-22db-49fe-87ff-3737d96dd130",
+  "name": "Dress03",
+  "description": "very good dress Quality",
+  "price": 1000.7,
+  "categories": [
+    "Female",
+    "Long Dress"
+  ],
+  "attributes": [
+    {
+      "size": "M",
+      "color": "Pink",
+      "brand": "TTS"
+    },
+    {
+      "size": "S",
+      "color": "Black",
+      "brand": "SSK"
+    }
+  ],
+  "availability": {
+    "inStock": true,
+    "quantity": 10
+  },
+  "ratings": [
+    {
+      "userId": "ewqewqqw",
+      "rating": 4.5,
+      "comment": "dfsdfdsvdsg"
+    },
+    {
+      "userId": "33r223",
+      "rating": 5.5,
+      "comment": "sefdvds sdgsdgs"
+    }
+  ],
+  "_class": "com.productcrud.model.Product"
+},
+{
+  "_id": "52f94112-0a1a-4e80-ad1f-7d4a182d2ac0",
+  "name": "T shirt",
+  "description": "shiney shirt",
+  "price": 1000.7,
+  "categories": [
+    "Male"
+  ],
+  "attributes": [
+    {
+      "size": "M",
+      "color": "Orange",
+      "brand": "red"
+    },
+    {
+      "size": "S",
+      "color": "white",
+      "brand": "Puma"
+    }
+  ],
+  "availability": {
+    "inStock": true,
+    "quantity": 10
+  },
+  "ratings": [
+    {
+      "userId": "ewqewqqw",
+      "rating": 4.5,
+      "comment": "dfsdfdsvdsg"
+    },
+    {
+      "userId": "33r223",
+      "rating": 5.5,
+      "comment": "sefdvds sdgsdgs"
+    }
+  ],
+  "_class": "com.productcrud.model.Product"
+},
+{
+  "_id": "048febcb-d65f-47e1-8dd0-ba52c91065ea",
+  "name": "T shirt",
+  "description": "shiney shirt",
+  "price": 1000.7,
+  "categories": [
+    "Male"
+  ],
+  "attributes": [
+    {
+      "size": "S",
+      "color": "pink",
+      "brand": "Puma"
+    }
+  ],
+  "availability": {
+    "inStock": true,
+    "quantity": 10
+  },
+  "ratings": [
+    {
+      "userId": "ewqewqqw",
+      "rating": 4.5,
+      "comment": "dfsdfdsvdsg"
+    },
+    {
+      "userId": "33r223",
+      "rating": 5.5,
+      "comment": "sefdvds sdgsdgs"
+    }
+  ],
+  "_class": "com.productcrud.model.Product"
+},
+{
+  "_id": "f784e61e-9175-40a5-96ac-2c42ba511ca0",
+  "name": "Shoes",
+  "description": "Comfortable shoes for everyday wear",
+  "price": 89.99,
+  "categories": [
+    "Female",
+    "Casual",
+    "Footwear"
+  ],
+  "attributes": [
+    {
+      "size": "7",
+      "color": "black",
+      "brand": "Adidas"
+    },
+    {
+      "size": "8",
+      "color": "white",
+      "brand": "Nike"
+    }
+  ],
+  "availability": {
+    "inStock": true,
+    "quantity": 20
+  },
+  "ratings": [],
+  "_class": "com.productcrud.model.Product"
+},
+{
+  "_id": "cc5c9723-123c-4c75-bdf9-30f2f7767dc3",
+  "name": "Backpack",
+  "description": "Spacious backpack for travel and everyday use",
+  "price": 45.99,
+  "categories": [
+    "Accessories"
+  ],
+  "attributes": [
+    {
+      "size": "Medium",
+      "color": "blue",
+      "brand": "Jansport"
+    }
+  ],
+  "availability": {
+    "inStock": true,
+    "quantity": 15
+  },
+  "ratings": [
+    {
+      "userId": "user123",
+      "rating": 4,
+      "comment": "Great quality backpack!"
+    }
+  ],
+  "_class": "com.productcrud.model.Product"
+},
+{
+  "_id": "51365f11-f619-4a43-af9b-0af78c46e410",
+  "name": "Smartwatch",
+  "description": "Fitness tracker with heart rate monitoring",
+  "price": 129.99,
+  "categories": [
+    "Electronics",
+    "Wearable"
+  ],
+  "attributes": [
+    {
+      "size": "One Size",
+      "color": "black",
+      "brand": "Fitbit"
+    }
+  ],
+  "availability": {
+    "inStock": true,
+    "quantity": 30
+  },
+  "ratings": [],
+  "_class": "com.productcrud.model.Product"
+},
+{
+  "_id": "905d0fb8-73e9-489c-b468-af93f9f134dd",
+  "name": "Laptop",
+  "description": "Powerful laptop for work and gaming",
+  "price": 1499.99,
+  "categories": [
+    "Electronics",
+    "Computers"
+  ],
+  "attributes": [
+    {},
+    {}
+  ],
+  "availability": {
+    "inStock": true,
+    "quantity": 10
+  },
+  "ratings": [
+    {
+      "userId": "user456",
+      "rating": 4.5,
+      "comment": "Fast and reliable performance"
+    },
+    {
+      "userId": "user789",
+      "rating": 5,
+      "comment": "Great for gaming!"
+    }
+  ],
+  "_class": "com.productcrud.model.Product"
+},
+{
+  "_id": "79f77e77-53df-46ff-8c34-9ed305612175",
+  "name": "T-shirt",
+  "description": "Comfortable cotton t-shirt for everyday wear",
+  "price": 19.99,
+  "categories": [
+    "Male",
+    "Casual",
+    "Clothing"
+  ],
+  "attributes": [
+    {
+      "size": "S",
+      "color": "red",
+      "brand": "Hanes"
+    },
+    {
+      "size": "M",
+      "color": "blue",
+      "brand": "Gildan"
+    },
+    {
+      "size": "L",
+      "color": "green",
+      "brand": "Fruit of the Loom"
+    }
+  ],
+  "availability": {
+    "inStock": true,
+    "quantity": 50
+  },
+  "ratings": [
+    {
+      "userId": "user123",
+      "rating": 4.2,
+      "comment": "Nice quality fabric"
+    },
+    {
+      "userId": "user456",
+      "rating": 4.5,
+      "comment": "Fits perfectly"
+    }
+  ],
+  "_class": "com.productcrud.model.Product"
+}]
